@@ -57,7 +57,7 @@
     "emitter-component": "^1.1.1",
     "keycharm": "^0.3.0",
     "propagating-hammerjs": "^1.4.7",
-    "vis-util": "^3.0.0"
+    "vis-util": "^4.0.0"
   },
   "peerDependencies": {
     "moment": "^2.24.0",
@@ -115,7 +115,7 @@
     "uuid": "7.0.2",
     "vis-data": "6.4.1",
     "vis-dev-utils": "2.2.3",
-    "vis-util": "3.0.0"
+    "vis-util": "4.0.0"
   },
   "collective": {
     "type": "opencollective",
